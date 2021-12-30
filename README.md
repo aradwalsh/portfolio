@@ -1,10 +1,10 @@
-# portfolio
+# Portfolio Simples
 
-Portfolio do desenvolvedor  
+Portfolio para desenvolvedor  
 
 ## Tarefas
 
-O controle das tafrefas desse projeto será relizado no GitHub
+Controle das tarefas desse projeto relizado no GitHub
 
 ## Ícones
 
@@ -12,3 +12,6 @@ O controle das tafrefas desse projeto será relizado no GitHub
 - :up: atualização
 - :beetle: correção de bug
 - :checkered_flag: release
+
+## Link
+(https://aradwalsh.github.io/portfolio/)
